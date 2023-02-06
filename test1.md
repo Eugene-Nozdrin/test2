@@ -15,4 +15,5 @@
 10.2 git remote -v - показывает более подробно
 11. git remote add origin (SSH) добавить связь с удалённым репоз. (origin - название связи, для доступа)
 12. git remote remove origin - удалить связь с именем origin
-13. 
+13. git push -u origin main - отправить проект по пути origin в удалённый репозиторий
+14. 
